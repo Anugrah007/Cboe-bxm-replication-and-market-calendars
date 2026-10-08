@@ -1,0 +1,21 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+
+# OS, editor, and Excel temporary files
+.DS_Store
+__MACOSX/
+.vscode/
+.idea/
+~$*.xlsx
