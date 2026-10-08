@@ -1,4 +1,4 @@
-# Cboe Quantitative Analyst Assessment
+# Cboe BXM replication and all exchanges market calendars
 
 This project covers the two Python tasks in the Cboe assessment. For the first task, I used the provided Excel data to reproduce the S&P 500 BuyWrite Index (BXM) calculations and fill in the missing values. For the second, I built a function that finds market holidays and early closes for a chosen exchange and date range. The holiday script can also generate calendars for all exchanges supported by the installed library.
 
